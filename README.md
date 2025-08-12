@@ -7,4 +7,4 @@ Currently learning Go.
 Still want to keep learning TypeScript.  
 Also plenty of other things I’ll probably never use in production.
 
-I like spice melange and messing with protomolecules.
+Besides that, I like spice melange and messing with protomolecules.
