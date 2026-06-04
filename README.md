@@ -1,5 +1,5 @@
 **I code. It works. It breaks. I fix.**   
 
 Currently learning Go.  
-Still want to keep learning TypeScript. 
+Want to learn Rust.
 Also plenty of other things I’ll probably never use in production.
